@@ -41,4 +41,4 @@ async def on_message(message):
 
 
 
-client.run("OTQxODg3MDI0MDgyODQ1Njk3.GB2kdo.2ZYmgYd0Kjd649t9tGRGn_IQOLsQO6mmf0dkSM") # 토큰 적는곳
+client.run("OTQxODg3MDI0MDgyODQ1Njk3.Gy1BAH.NJou5QGpNM3mDrTNWPM8MTY4O7e3x_5jriSHrs") # 토큰 적는곳
